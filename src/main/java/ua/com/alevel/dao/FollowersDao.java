@@ -1,6 +1,6 @@
-package ua.com.alvel.dao;
+package ua.com.alevel.dao;
 
-import lecture30.module.model.User;
+import ua.com.alevel.model.User;
 
 import java.util.List;
 

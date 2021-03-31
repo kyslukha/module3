@@ -1,8 +1,7 @@
-package ua.com.alvel.dao;
+package ua.com.alevel.dao;
 
-import lecture30.module.model.Post;
-import lecture30.module.model.User;
-
+import ua.com.alevel.model.User;
+import ua.com.alevel.model.Post;
 import java.util.List;
 
 public interface PostDao {

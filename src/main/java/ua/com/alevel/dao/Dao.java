@@ -1,4 +1,4 @@
-package ua.com.alvel.dao;
+package ua.com.alevel.dao;
 
 import java.util.List;
 
